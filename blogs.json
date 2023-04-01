@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "author_name":"Mr. Raju",
+        "blog_title":"How to get your first job as a self-taught programmer",
+        "cover_img":"",
+        "author_img":"",
+        "read_time":5,
+        "publist_date":"March 14, 2023"
+    },
+    {
+        "id": 2,
+        "author_name":"Mr. Setara",
+        "blog_title":"How to get your first job as a self-taught gamer",
+        "cover_img":"",
+        "author_img":"",
+        "read_time": 10,
+        "publist_date":"March 13,2023"
+    },
+    {
+        "id": 3,
+        "author_name":"Mina Mostofa",
+        "blog_title":"How to get your first job as a self-taught guitarist",
+        "cover_img":"",
+        "author_img":"",
+        "read_time": 12,
+        "publist_date":"March 10, 2023"
+    },
+    {
+        "id": 4,
+        "author_name":"Mr. Setara",
+        "blog_title":"How to get your first job as a self-taught photographer",
+        "cover_img":"",
+        "author_img":"",
+        "read_time":,
+        "publist_date":"March 09,2023"
+    }
+]
